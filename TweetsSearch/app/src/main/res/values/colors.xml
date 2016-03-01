@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar">#0084b4</color>
+    <color name="background_fragment_twitter">#1dcaff</color>
+    <color name="text_color_link">#6bb9e7</color>
+</resources>
